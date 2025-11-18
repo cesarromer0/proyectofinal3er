@@ -1,0 +1,9 @@
+Datos del proyecto final:
+
+Nombre del proyecto:RVentas 
+
+Craedor: Romero Ibarra Cesar Eduardo 
+
+Objetivo: Llevar las ventas de ropa deportiva
+
+Ultima actualización: 18 de Noviembre  
