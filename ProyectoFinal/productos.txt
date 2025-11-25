@@ -1,0 +1,5 @@
+1|Camisa|200|Camisas
+2|Camiseta  de  Futbol|2000|Camisas
+3|Pantalon de Lino|1000|Pantalones
+2|Short Deportivo|700|Shorts
+2|Traje Negro de Trabajo|3000|Trajes
